@@ -1,6 +1,6 @@
-# URL Redirector Chrome Extension
+# SWAP - Smart Web Address Processor
 
-This Chrome extension automatically redirects URLs based on custom patterns you define. It's perfect for handling different domain variations (like `.corp` to `.com`) automatically.
+SWAP (Smart Web Address Processor) is a Chrome extension that automatically redirects URLs based on custom patterns you define. It's perfect for handling different domain variations (like `.corp` to `.com`) automatically.
 
 ## Features
 

@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "URL Redirector",
+  "name": "SWAP - Smart Web Address Processor",
   "version": "1.0",
   "description": "Automatically redirects URLs based on predefined patterns",
   "permissions": [
